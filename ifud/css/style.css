@@ -1,0 +1,33 @@
+h1 {
+	font-size: 2em;
+	font-weight: bold;
+}
+
+h2 {
+	font-size: 1.5em;
+}
+
+.card {
+	padding: 15px 0;
+}
+
+.valor {
+	color: #F00;
+	font-weight: bold;
+	font-size: 1.2em;
+}
+
+.pulse {
+	color: #FFF;
+	padding: 10px 0;
+	font-size: 1.2em;
+}
+
+footer {
+	margin-top: 30px;
+}
+
+#instalar {
+	width: 100%;
+	margin: 10px 0;
+}

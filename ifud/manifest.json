@@ -1,0 +1,25 @@
+{
+  "short_name": "iFud",
+  "name": "iFud - Seu app de pedidos de Carbonera",
+  "icons": [
+    {
+      "src": "images/icon-48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "images/icon-96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "images/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/ifud/index.php?start=pwa",
+  "background_color": "#990000",
+  "display": "standalone",
+  "theme_color": "#990000"
+}
